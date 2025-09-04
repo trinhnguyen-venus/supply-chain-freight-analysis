@@ -50,9 +50,9 @@ These findings highlight the trade-offs between speed, cost, and reliability in 
 
 - Ocean freight costs remain small (~4%), in line with its limited usage.
 
-![Shipment Mode Cost](images/Shipment_Mode_Analysis_by_Cost.png)
+![Shipment Mode Cost](Images/Shipment_Mode_Analysis_by_Cost.png)
 
-![Shipment Mode by Number of Order](images/Shipment_Mode_Analysis_by_Number_of_Order.png)
+![Shipment Mode by Number of Order](Images/Shipment_Mode_Analysis_by_Number_of_Order.png)
 
 ---
 
@@ -81,11 +81,11 @@ These findings highlight the trade-offs between speed, cost, and reliability in 
 
 - Truck: ~55 days, the quickest, ideal for short-distance or domestic routes.
 
-![Lead Time by Country](images/Lead_Time_Analysis_by_Country.png)
+![Lead Time by Country](Images/Lead_Time_Analysis_by_Country.png)
 
-![Lead Time by Vendor](images/Lead_Time_Analysis_by_Vendor.png)
+![Lead Time by Vendor](Images/Lead_Time_Analysis_by_Vendor.png)
 
-![Lead Time by Mode](images/Lead_Time_Analysis_by_Shipmode.png)
+![Lead Time by Mode](Images/Lead_Time_Analysis_by_Shipmode.png)
 
 ---
 ### 3. On-time Delivery
@@ -106,9 +106,9 @@ Costs differ sharply across modes:
 *   Trucking is the lowest-cost option.
 *   Ocean lies in the middle, suited for heavy but less urgent cargo.
 
-![Freight Cost per Kg Distribution](images/Freight_Cost_Analysis_Distribution.png)
-![Freight Cost per Kg by Mode](images/Freight_Cost_Analysis_by Shipmode.png)
-![Freight Cost vs Weight Relation per Kg](images/Freight_Cost_Relations.png)
+![Freight Cost per Kg Distribution](Images/Freight_Cost_Analysis_Distribution.png)
+![Freight Cost per Kg by Mode](Images/Freight_Cost_Analysis_by Shipmode.png)
+![Freight Cost vs Weight Relation per Kg](Images/Freight_Cost_Relations.png)
 
 ---
 
